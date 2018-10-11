@@ -15,7 +15,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:rifkyalikiki/example-api-app.git"
+        "url": "git@github.com:rickcosme/example-api-app.git"
     },
     "devDependencies": {
         "supertest": "^3.3.0"
